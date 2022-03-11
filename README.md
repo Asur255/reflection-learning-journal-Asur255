@@ -24,7 +24,7 @@ You will need to use the processes of version control in git, to make changes an
 **1 Lecture content - Backward Looking**  
 **Reflection Question #3. Have you done a similar kind of work in the past (earlier in the year or in a previous grade; in school or out of
 school)?**  
-*In Summer School this year I took the course CompSci 120. From the first lecture I could already find many similarities in these 2 courses and have found that my learning from summer school has helped me better understand the lecture content in this course (especially in terms of finding steps to problem solving).*  
+*In Summer School this year I took the course CompSci 120. From the first lecture I could already find many similarities in these 2 courses and have found that my learning from summer school has helped me better understand the lecture content in this course (especially in terms of finding steps to problem solve).*  
 
 **2 Lab content- Inward Looking**  
 **Reflection Question #?. ????**  

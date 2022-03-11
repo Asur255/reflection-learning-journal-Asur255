@@ -27,8 +27,8 @@ school)?**
 *In Summer School this year I took the course CompSci 120. From the first lecture I could already find many similarities in these 2 courses and have found that my learning from summer school has helped me better understand the lecture content in this course (especially in terms of finding steps to problem solve).*  
 
 **2 Lab content- Inward Looking**  
-**Reflection Question #?. ????**  
-*My reflection*  
+**Reflection Question #10. What did/do you find frustrating about it?**  
+*I was (and sometimes still am) having difficulty with using the new programs and being able to commit and push updates onto the remote repository online.*  
 
 **3 Course overall - Outward Looking**  
 **Reflection Question #?. ????**  

@@ -31,6 +31,6 @@ school)?**
 *I was (and sometimes still am) having difficulty with using the new programs and being able to commit and push updates onto the remote repository online.*  
 
 **3 Course overall - Outward Looking**  
-**Reflection Question #?. ????**  
-*My reflection*  
+**Reflection Question #23. In what ways was your work or process similar?**  
+*I have found that so far when problem solving in this course we concentrate on the problem solving steps and thinking rather than the actual conclusion. We have been taught certain methods such as Polya's 4 stages of problem solving as a guide when trying to solve a question. This makes our problem solving process similar.*  
 

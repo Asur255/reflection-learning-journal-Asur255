@@ -1,7 +1,7 @@
 # Learning Journal
 
->**Name:** Koro Tawa
-**UPI** ktaw002
+>**Name:** Aarushi Suri
+**UPI** asur255
 
 This is your learning journal for learning the skills of a computer programmer being taught in **INFOSYS221**.
 You will need to use the processes of version control in git, to make changes and commit these changes to your remote repository on gitHub.

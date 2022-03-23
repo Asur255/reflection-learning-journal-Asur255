@@ -40,6 +40,11 @@ school)?**
 **Reflection Question #4. In what ways have you gotten better at this kind of work?**
 *At the beginning of this course I found the finding of the problem steps easy, however I found it quite challenging to show my thought process and the insights I found. Through these weeks since the beginning of the course I have had the opportunity to work through and do a lot of practice on this work that I found difficult (through labs and working on assignment 1), and due to this I have gotten a lot better at this kind of work.*
 
-**Lab content - Inward Looking**
+**2 Lab content - Inward Looking**
 **Reflection Question #20 What does that tell you about yourself and how you learn?**
 *From past experience, I have found myself to be more of an individual worker when compared to working in a group. This is because I often find it a bit more challenging to work with others and end up wanting the result to be presented in a way that I like. Through working in the lab with other students I have had to compromise this and adapt to working with other and not having everything my way. Once I overcame the challenges of this (even though I am still learning), I grew to enjoy group work a lot more than I originally did and embrace working with everyone’s ideas and thinking a little differently (maybe I just got lucky with the members in my team).*
+
+**3 Assignment content - Outward Looking**
+**Reflection Question #28. In what ways did your work meet the standards for this assignment?**
+*I put in a lot of effort into my work and definitely believe that it meets the standards for the assignment. One of the things that I found more challenging starting this course was showing my thought process and personal insights, and this is exactly what I tired to put more effort into when working on the assignment. I tried to present my work in a clear way so that the marker is able to understand my thought processes as well as exactly what was going on in my head.*
+

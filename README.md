@@ -48,3 +48,6 @@ school)?**
 **Reflection Question #28. In what ways did your work meet the standards for this assignment?**
 *I put in a lot of effort into my work and definitely believe that it meets the standards for the assignment. One of the things that I found more challenging starting this course was showing my thought process and personal insights, and this is exactly what I tired to put more effort into when working on the assignment. I tried to present my work in a clear way so that the marker is able to understand my thought processes as well as exactly what was going on in my head.*
 
+**4 Course overall - Forward Looking**
+**Reflection Question #37. What would you like to spend more time on in school?**
+*In the future of this course, I would like to spend more time on working on exercises similar to those in class, and getting these marked and receiving feedback on this work. In a previous lecture, the lecturer had given feedback on exercises that the students had worked on in the previous lecture. I quite liked this as we not only received feedback on our own work, but also saw the work of other and how they could improve. This way we got to see the way our peers thought as well as getting questions answered that we may have not even thought of.*

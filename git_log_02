@@ -1,0 +1,23 @@
+commit 5b482d8020608a5e7079eff543ee56e8f8e994b6 (HEAD -> master, origin/master)
+Author: Aarushi Suri <asur255@aucklanduni.ac.nz>
+Date:   Wed Mar 23 21:22:56 2022 +1300
+
+    Editing Course overall - Forward Looking
+
+commit beae8073cd96d2f782520f483aefcc8996b09c81
+Author: Aarushi Suri <asur255@aucklanduni.ac.nz>
+Date:   Wed Mar 23 21:21:43 2022 +1300
+
+    Editing Assignment content - Outward Looking
+
+commit 3eaddc90dc9a52cce77429413b46ef0b10cd9575
+Author: Aarushi Suri <asur255@aucklanduni.ac.nz>
+Date:   Wed Mar 23 21:20:18 2022 +1300
+
+    Editing Lab content - Inward Looking
+
+commit 79f2059260f6f7ecbd0dba35f38b4b7eecd92b5c
+Author: Aarushi Suri <asur255@aucklanduni.ac.nz>
+Date:   Wed Mar 23 21:16:31 2022 +1300
+
+    Editing Lecture content - Backward Looking

@@ -60,9 +60,7 @@ school)?**
 **Reflection Question #29 In what ways did it not meet those standards?**
 *Sometimes while doing group work in the labs, our group falls short of some points. Often times this may be because we misinterpreted the question or didn’t manage to meet all parts fully.*
 
-**3 Assignment content - Inward Looking**
-**Reflection Question #10. What was especially satisfying to you about either the process or the finished product?**
-*Something that I found specifically satisfying about the process of my group assignment was the teamwork and sharing of ideas throughout it. I believe that my team works really well together and that we are able to bounce off of each other.*
+
 
 **4 Course overall - Backward Looking**
 **Reflection Question #5. 5. In what ways do you think you need to improve?**

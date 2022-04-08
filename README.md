@@ -63,3 +63,7 @@ school)?**
 **3 Assignment content - Inward Looking**
 **Reflection Question #10. What was especially satisfying to you about either the process or the finished product?**
 *Something that I found specifically satisfying about the process of my group assignment was the teamwork and sharing of ideas throughout it. I believe that my team works really well together and that we are able to bounce off of each other.*
+
+**4 Course overall - Backward Looking**
+**Reflection Question #5. 5. In what ways do you think you need to improve?**
+*One thing I need to improve at in terms of the course overall is to spend more time revising the course content and practising it. This will be really beneficial to me, especially leading up to the exam.*

@@ -60,7 +60,9 @@ school)?**
 **Reflection Question #29 In what ways did it not meet those standards?**
 *Sometimes while doing group work in the labs, our group falls short of some points. Often times this may be because we misinterpreted the question or didn’t manage to meet all parts fully.*
 
-
+**3 Assignment content - Inward Looking**
+**Reflection Question #12. What were your standards for this piece of work?**
+*My standards for this assignment were quite high as I believe that the group work for assignments that my group had done in the past was of high standard and I was set on meeting and exceeding that standard for this following group assignment (and future ones).*
 
 **4 Course overall - Backward Looking**
 **Reflection Question #5. 5. In what ways do you think you need to improve?**

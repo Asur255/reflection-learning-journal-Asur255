@@ -67,3 +67,6 @@ school)?**
 **4 Course overall - Backward Looking**
 **Reflection Question #5. 5. In what ways do you think you need to improve?**
 *One thing I need to improve at in terms of the course overall is to spend more time revising the course content and practising it. This will be really beneficial to me, especially leading up to the exam.*
+
+**Git content - Which git command did I use and why?**
+*I use the git reset mixed as this resets back to the working directory. A soft reset would only reset back to the staging area, and a hard reset would remove any uncommited changes.*

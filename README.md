@@ -55,3 +55,7 @@ school)?**
 **1 Lecture content - Forward Looking**
 **Reflection Question #36. What's one goal you would like to set for yourself for next time?**
 *One goal that I’d like the set for myself for future lecture is to participate more by asking and answering questions. I sometimes see other students doing this and I think it would be really beneficial for me to do so more. Furthermore, I feel that this may be easier in a physical lecture setting.*
+
+**2 Lab content - Outward Looking**
+**Reflection Question #29 In what ways did it not meet those standards?**
+*Sometimes while doing group work in the labs, our group falls short of some points. Often times this may be because we misinterpreted the question or didn’t manage to meet all parts fully.*

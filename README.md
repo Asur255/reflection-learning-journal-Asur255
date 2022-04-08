@@ -36,7 +36,6 @@ school)?**
 
 ## Learning Journal 02
 **1 Lecture content - Backward Looking**
-**Lecture content - Backward Looking**
 **Reflection Question #4. In what ways have you gotten better at this kind of work?**
 *At the beginning of this course I found the finding of the problem steps easy, however I found it quite challenging to show my thought process and the insights I found. Through these weeks since the beginning of the course I have had the opportunity to work through and do a lot of practice on this work that I found difficult (through labs and working on assignment 1), and due to this I have gotten a lot better at this kind of work.*
 
@@ -51,3 +50,8 @@ school)?**
 **4 Course overall - Forward Looking**
 **Reflection Question #37. What would you like to spend more time on in school?**
 *In the future of this course, I would like to spend more time on working on exercises similar to those in class, and getting these marked and receiving feedback on this work. In a previous lecture, the lecturer had given feedback on exercises that the students had worked on in the previous lecture. I quite liked this as we not only received feedback on our own work, but also saw the work of other and how they could improve. This way we got to see the way our peers thought as well as getting questions answered that we may have not even thought of.*
+
+## Learning Journal 03
+**1 Lecture content - Forward Looking**
+**Reflection Question #36. What's one goal you would like to set for yourself for next time?**
+*One goal that I’d like the set for myself for future lecture is to participate more by asking and answering questions. I sometimes see other students doing this and I think it would be really beneficial for me to do so more. Furthermore, I feel that this may be easier in a physical lecture setting.*

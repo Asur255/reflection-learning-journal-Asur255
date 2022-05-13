@@ -70,3 +70,9 @@ school)?**
 
 **Git content - Which git command did I use and why?**
 *I use the git reset mixed as this resets back to the working directory. A soft reset would only reset back to the staging area, and a hard reset would remove any uncommited changes.*
+
+## Learning Journal 04
+**1 Lecture content**
+*Overall, I am enjoying the lecture content. The content taught in the previous weeks has been particularly challenging to understand as writing JavaScript is a very new concept for me. However, I enjoy this challenge as I find the learning interesting and particularly rewarding when I finally understand it.*
+
+##

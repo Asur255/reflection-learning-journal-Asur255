@@ -77,3 +77,6 @@ school)?**
 
 **2 Lab content**
 *I very much enjoy the lab content as it gives me a chance to prace my learnings from the lecture content. Additionally, I find it helpful to practice this alongside classmates so that we are able to collaborate together and I can get help when I am stuck (and visa-versa).*
+
+**3 Mid Term Test content**
+*I found the content of the Mid Term Test to be appropriate and relevant to the material learnt. However, I had difficulty trying to get through the whole test in the time given.

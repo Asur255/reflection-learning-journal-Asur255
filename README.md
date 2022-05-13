@@ -75,4 +75,5 @@ school)?**
 **1 Lecture content**
 *Overall, I am enjoying the lecture content. The content taught in the previous weeks has been particularly challenging to understand as writing JavaScript is a very new concept for me. However, I enjoy this challenge as I find the learning interesting and particularly rewarding when I finally understand it.*
 
-##
+**2 Lab content**
+*I very much enjoy the lab content as it gives me a chance to prace my learnings from the lecture content. Additionally, I find it helpful to practice this alongside classmates so that we are able to collaborate together and I can get help when I am stuck (and visa-versa).*

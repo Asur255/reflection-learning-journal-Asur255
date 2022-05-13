@@ -80,3 +80,6 @@ school)?**
 
 **3 Mid Term Test content**
 *I found the content of the Mid Term Test to be appropriate and relevant to the material learnt. However, I had difficulty trying to get through the whole test in the time given.
+
+**4 Course overall**
+*Overall, I am quite enjoying this course. I did not expect to learn such a variety coming into the course and am pleasantly surprised by how much I enjoy the content, even though I can find some things difficult at times. I also enjoy how we get assessed in this course through group projects and multiple assignments and tests to replace the exam.*

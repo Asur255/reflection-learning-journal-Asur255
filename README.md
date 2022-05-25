@@ -90,3 +90,6 @@ school)?**
 
 **2 Lab content**
 *The collaborating aspect of the labs has been enjoyable as you are able to gain insite on how others interperate qusetions and solve certain problems. The timed aspect of the lab also adds to the challenge of it, although I have sometimes found that the time given is quite limited.*
+
+**3 Course overall**
+*The course overall is very enjoyable and different to other courses. I enjoyed having to work on one overall project throughout the semester (split into 4 different projects) with the same group of people. I would definetly recommened this course to others doing an information systems major.*

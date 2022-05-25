@@ -83,3 +83,7 @@ school)?**
 
 **4 Course overall**
 *Overall, I am quite enjoying this course. I did not expect to learn such a variety coming into the course and am pleasantly surprised by how much I enjoy the content, even though I can find some things difficult at times. I also enjoy how we get assessed in this course through group projects and multiple assignments and tests to replace the exam.*
+
+## Learning Journal 05
+**1 Lecture content**
+*I have found the lecture content of this course very enjoyable, although particularly challenging. What I have found most difficult has been the idea of different commits in order to transport something from my local repository on my desktop, to the git repository online.*

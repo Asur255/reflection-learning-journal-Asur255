@@ -87,3 +87,6 @@ school)?**
 ## Learning Journal 05
 **1 Lecture content**
 *I have found the lecture content of this course very enjoyable, although particularly challenging. What I have found most difficult has been the idea of different commits in order to transport something from my local repository on my desktop, to the git repository online.*
+
+**2 Lab content**
+*The collaborating aspect of the labs has been enjoyable as you are able to gain insite on how others interperate qusetions and solve certain problems. The timed aspect of the lab also adds to the challenge of it, although I have sometimes found that the time given is quite limited.*
